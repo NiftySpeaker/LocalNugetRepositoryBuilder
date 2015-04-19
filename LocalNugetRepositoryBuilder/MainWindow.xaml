@@ -1,0 +1,24 @@
+﻿<Window x:Class="LocalNugetRepositoryBuilder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Local Nuget Repository Builder" Height="350" Width="525">
+    <Grid>
+        <StackPanel>
+            <WrapPanel>
+                <Label>List of selected folders:</Label>
+                <Button Content="Add Source Folder ..." Click="btnAddSourceFolder" Margin="10,1,0,-1" Padding="3" Width="150"></Button>
+                <Button Content="Remove Source Folder ..." Click="btnRemoveSourceFolder" Margin="20,1,0,-1" Padding="3" Width="150"></Button>
+            </WrapPanel>
+            <ListBox Name="lbFolderPaths"></ListBox>
+            <WrapPanel>
+                <TextBlock Margin="0,1,0,-1" Padding="3">Target folder:</TextBlock>
+                <TextBlock Name="tbTargetFolder" Padding="3"></TextBlock>
+            </WrapPanel>
+            <Button Content="Select Target Folder ..." Margin="10,1,10,-1" Click="btnSelectTargetFolder" Padding="3"></Button>
+            <WrapPanel Margin="10,20,0,-1">
+                <Button Content="Create Local Nuget Repository" Name="btnCreate" IsEnabled="False" Click="btnCreate_Click" Margin="10,1,10,-1" Padding="3"></Button>
+                <TextBlock Name="SuccessMessage" Visibility="Hidden">Repository created!</TextBlock>
+            </WrapPanel>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,26 @@
+c:\users\ich\documents\visual studio 2013\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\bin\Debug\LocalNugetRepositoryBuilder.exe.config
+c:\users\ich\documents\visual studio 2013\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\obj\Debug\LocalNugetRepositoryBuilder.csprojResolveAssemblyReference.cache
+c:\users\ich\documents\visual studio 2013\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\obj\Debug\MainWindow.baml
+c:\users\ich\documents\visual studio 2013\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\obj\Debug\MainWindow.g.cs
+c:\users\ich\documents\visual studio 2013\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\obj\Debug\App.g.cs
+c:\users\ich\documents\visual studio 2013\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\obj\Debug\LocalNugetRepositoryBuilder_MarkupCompile.cache
+c:\users\ich\documents\visual studio 2013\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\obj\Debug\LocalNugetRepositoryBuilder.g.resources
+c:\users\ich\documents\visual studio 2013\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\obj\Debug\LocalNugetRepositoryBuilder.Properties.Resources.resources
+c:\users\ich\documents\visual studio 2013\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\obj\Debug\LocalNugetRepositoryBuilder.csproj.GenerateResource.Cache
+c:\users\ich\documents\visual studio 2013\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\bin\Debug\LocalNugetRepositoryBuilder.exe
+c:\users\ich\documents\visual studio 2013\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\bin\Debug\LocalNugetRepositoryBuilder.pdb
+c:\users\ich\documents\visual studio 2013\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\obj\Debug\LocalNugetRepositoryBuilder.exe
+c:\users\ich\documents\visual studio 2013\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\obj\Debug\LocalNugetRepositoryBuilder.pdb
+E:\_VmCentral\_ApplicationData\Visual Studio\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\bin\Debug\LocalNugetRepositoryBuilder.exe.config
+E:\_VmCentral\_ApplicationData\Visual Studio\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\obj\Debug\LocalNugetRepositoryBuilder.exe
+E:\_VmCentral\_ApplicationData\Visual Studio\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\obj\Debug\LocalNugetRepositoryBuilder.pdb
+E:\_VmCentral\_ApplicationData\Visual Studio\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\bin\Debug\LocalNugetRepositoryBuilder.exe
+E:\_VmCentral\_ApplicationData\Visual Studio\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\bin\Debug\LocalNugetRepositoryBuilder.pdb
+E:\_VmCentral\_ApplicationData\Visual Studio\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\obj\Debug\LocalNugetRepositoryBuilder.csprojResolveAssemblyReference.cache
+E:\_VmCentral\_ApplicationData\Visual Studio\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\obj\Debug\MainWindow.baml
+E:\_VmCentral\_ApplicationData\Visual Studio\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\obj\Debug\MainWindow.g.cs
+E:\_VmCentral\_ApplicationData\Visual Studio\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\obj\Debug\App.g.cs
+E:\_VmCentral\_ApplicationData\Visual Studio\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\obj\Debug\LocalNugetRepositoryBuilder_MarkupCompile.cache
+E:\_VmCentral\_ApplicationData\Visual Studio\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\obj\Debug\LocalNugetRepositoryBuilder.g.resources
+E:\_VmCentral\_ApplicationData\Visual Studio\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\obj\Debug\LocalNugetRepositoryBuilder.Properties.Resources.resources
+E:\_VmCentral\_ApplicationData\Visual Studio\Projects\LocalNugetRepositoryBuilder\LocalNugetRepositoryBuilder\obj\Debug\LocalNugetRepositoryBuilder.csproj.GenerateResource.Cache
